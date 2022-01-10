@@ -1,6 +1,5 @@
 ## Hello there, Eu sou o Luiz  👋
 
-
 <div align="center" >
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antarest&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
@@ -24,7 +23,7 @@
 
 ##
 
-<h3> Segue lá </h3> 
+<h3> Segue lá 🤗 </h3> 
 
 <div >
   <a href="https://www.linkedin.com/in/luizvbemidio/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
