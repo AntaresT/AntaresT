@@ -20,3 +20,5 @@
   <a href="https://www.linkedin.com/in/luizvbemidio/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
   <a href="https://open.spotify.com/user/12147352231?si=e14d071d4c984f04" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/spotify.png"/></a>
 </div>
+
+![Snake animation](https://github.com/AntaresT/AntaresT/blob/output/github-contribution-grid-snake.svg)
