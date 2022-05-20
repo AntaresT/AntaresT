@@ -9,7 +9,7 @@
 ##
  
 - 🔭 Atualmente trabalho com <strong> Front-End </strong>
-- 🌱 TypeScript e React
+- 🌱 React, Node, Styled-Components
 - 😄 <strong> Ele / Dele </strong>
 - ⚡ Dj nas horas vagas
 
