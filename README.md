@@ -19,6 +19,7 @@
   <img align="center" alt="Antares-Js" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
   <img align="center" alt="Antares-Ts" src="https://img.icons8.com/color/48/000000/typescript.png">
   <img align="center" alt="Antares-React" src="https://img.icons8.com/office/40/000000/react--v1.png">
+  <img align="center" alt="Antares-Node" src="https://img.icons8.com/fluency/44/node-js.png">
  </div>
 
 ##
