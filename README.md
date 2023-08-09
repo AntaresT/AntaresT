@@ -48,5 +48,6 @@
   />
 </picture>
 
-Generate a [gif](https://github.com/AntaresT/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/AnaresT/snk/raw/output/github-contribution-grid-snake.svg) image.
+[gif](https://github.com/AntaresT/snk/raw/output/github-contribution-grid-snake.gif)
+[svg](https://github.com/AntaresT/snk/raw/output/github-contribution-grid-snake.svg)
 
