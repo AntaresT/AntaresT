@@ -28,5 +28,6 @@ jobs:
         if: success() && github.ref == 'refs/heads/main'
         with:
           target_branch: gh-pages
+          build_dir: public
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_GH_PAGES }}
