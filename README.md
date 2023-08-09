@@ -39,5 +39,5 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-[](https://github.com/AntaresT/AntaresT/blob/output/github-contribution-grid-snake.svg)
+[](https://github.com/AntaresT/AntaresT/main/assets/output/github-contribution-grid-snake.svg)
 
