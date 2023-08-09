@@ -48,6 +48,6 @@
   />
 </picture>
 
-[gif](https://github.com/AntaresT/snk/raw/output/github-contribution-grid-snake.gif)
-[svg](https://github.com/AntaresT/snk/raw/output/github-contribution-grid-snake.svg)
+[!gif](https://github.com/AntaresT/snk/raw/output/github-contribution-grid-snake.gif)
+[!svg](https://github.com/AntaresT/snk/raw/output/github-contribution-grid-snake.svg)
 
