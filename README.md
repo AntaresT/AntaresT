@@ -1,4 +1,4 @@
-## Hello there, Eu sou o Luiz  👋
+## Hello there, eu sou o Luiz  👋
 
 <div align="center" >
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antarest&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
